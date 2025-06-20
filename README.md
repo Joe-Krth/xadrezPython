@@ -10,6 +10,7 @@ Conteúdo:
 2. Regras:
    - Roque
    - En Passant
+   - Promoção de peão
    - Xeque
    - Xeque-mate
    - Empates:
