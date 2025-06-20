@@ -5,22 +5,18 @@ Versão: 1.0.0
 
 Copyright (c) 2025 Joe-Krth & Akzin9
 
-Jogo:
-1. Envie as coordenadas para selecionar a peça desejada
-2. Envie as coordenadas para movimentar a peça
-
-(isso irá se repetir até alguma condição de final de jogo for alcançada):
-   1. Xeque-Mate
-   2. Empate:
-      - Repetição de 3 Lances;
-      - 50 Lances sem captura de peças;
-      - Afogamento;
-      - Falta de material para xeque-mate.
-
-Mecânicas:
-1. Todas as movimentações padrão;
-2. Roque;
-3. En Passant.
+Conteúdo:
+1. Movimentações de peças
+2. Regras:
+   - Roque
+   - En Passant
+   - Xeque
+   - Xeque-mate
+   - Empates:
+     - 50 lances sem captura
+     - 3 lances repetidos
+     - afogamento do rei
+     - falta de material
 
 Peças: (Maiúsculas = Brancas; Minúsculas = Pretas)
 - Torre: "R" & "r"
@@ -30,4 +26,4 @@ Peças: (Maiúsculas = Brancas; Minúsculas = Pretas)
 - Rei: "K" & "k"
 - Peão: "P" & "p"
 
-´Mais versões poderão serem adicionadas futuramente!´
+´Mais versões poderão ser adicionadas futuramente!´
