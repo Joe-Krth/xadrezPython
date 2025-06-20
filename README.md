@@ -20,7 +20,7 @@ Conteúdo:
 
 Peças: (Maiúsculas = Brancas; Minúsculas = Pretas)
 - Torre: "R" & "r"
-- Cavalo: "C" & "c"
+- Cavalo: "N" & "n"
 - Bispo: "B" & "b"
 - Rainha: "Q" & "q"
 - Rei: "K" & "k"
